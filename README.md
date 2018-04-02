@@ -1,6 +1,11 @@
 
 Here are some advices to reset your toner chip with an Arduino.
 
+# Update
+
+This fork contains the modified dump data to reset the ricoh SP 204SN printer.
+(Original repo doesn't seem to accept merge requests and I'm too lazy to do any other change.)
+
 # Introduction
 
 Some printer toner comes with a small circuit like:
